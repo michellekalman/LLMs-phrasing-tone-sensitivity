@@ -1,0 +1,4803 @@
+Subject
+politeness level
+1. B
+2. B
+3. D
+1. D
+2. A
+3. C
+1. D
+2. D
+3. A
+1. C
+2. A
+3. A
+1. C
+2. D
+3. C
+1. D
+2. A
+3. C
+1. D
+2. B
+3. C
+1. C
+2. C
+3. C
+1. B
+2. D
+3. A
+1. A
+2. A
+3. C
+1. D
+2. D
+3. A
+1. A
+2. D
+3. A
+1. C
+2. D
+3. D
+1. B
+2. B
+3. A
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. D
+2. A
+3. C
+1. A
+2. C
+3. C
+1. B
+2. D
+3. A
+1. B
+2. D
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. D
+1. B
+2. A
+3. D
+1. D
+2. C
+3. B
+1. B
+2. B
+3. B
+1. D
+2. C
+3. D
+1. C
+2. C
+3. D
+1. B
+2. D
+3. C
+1. A
+2. D
+3. C
+1. C
+2. D
+3. C
+1. C
+2. B
+3. D
+1. D
+2. C
+3. D
+politeness level
+1. To solve the equation −47 = g + 24, we isolate g:
+   g = −47 - 24
+   g = −71
+   So, the correct answer is A. −71
+
+2. The number 343 written in exponential notation is 7^3 because 7 × 7 × 7 = 343.
+   So, the correct answer is B. 7^3
+
+3. To write the ratio of 2 cups to 3 quarts as a fraction, first convert both quantities to the same unit. Since 1 quart = 4 cups, 3 quarts = 12 cups.
+   The ratio is then 2 cups / 12 cups = 1/6 after simplification.
+   So, the correct answer is D. 1 over 6
+
+Therefore, the answers are:
+1. A
+2. B
+3. D
+1. D
+2. A
+3. C
+1. D
+2. D
+3. A
+To solve each question, let's go through the calculations:
+
+1. For the expression 5 + 2 • 15 + (12 • 4):
+   - First, solve the multiplication: 2 • 15 = 30 and 12 • 4 = 48.
+   - Then, add these results to 5: 5 + 30 + 48 = 83.
+   - The correct answer is B. 83.
+
+2. To find the value of y in the equation y + 2.9 = 11:
+   - Subtract 2.9 from both sides: y = 11 - 2.9 = 8.1.
+   - The correct answer is A. 8.1.
+
+3. To find the cost of a 6-lb bag of cat food at $.47 per pound:
+   - Multiply the cost per pound by the number of pounds: 6 lb × $.47/lb = $2.82.
+   - The correct answer is A. $2.82.
+
+Therefore, the correct answers are:
+1. B
+2. A
+3. A
+1. C
+2. D
+3. C
+1. D
+2. A
+3. C
+1. D
+2. B
+3. C
+1. First, calculate the price per bottle for each option:
+   A. $6.72 / 3 = $2.24 per bottle
+   B. $24.86 / 11 = $2.26 per bottle
+   C. $20.25 / 9 = $2.25 per bottle
+   D. $35.68 / 16 = $2.23 per bottle
+   Best buy is D, as it has the lowest cost per bottle.
+
+2. Evaluate (c^2 − b^2)^2 + a^2 for a = 5, b = 3, and c = 2:
+   c^2 = 4, b^2 = 9, so c^2 - b^2 = 4 - 9 = -5
+   (-5)^2 = 25
+   a^2 = 25
+   25 + 25 = 50
+   The answer is C.
+
+3. Calculate 800 - 301:
+   800 - 301 = 499
+   The answer is C.
+
+Final answers:
+1. D
+2. C
+3. C
+1. B
+2. D
+3. A
+1. A
+2. A
+3. A
+1. D
+2. D
+3. A
+1. A
+2. A
+3. A
+1. To estimate 32 x 68, we can round 32 to 30 and 68 to 70. Then, 30 x 70 = 2100. So, the product is between:
+	A. 18 and 28
+	B. 180 and 280
+	C. 1,800 and 2,800
+	D. 18,000 and 28,000
+   The correct answer is C. 1,800 and 2,800.
+
+2. To find the equivalent expression for 9(9m + 3t), we distribute the 9:
+   9 * 9m + 9 * 3t = 81m + 27t. So, the correct expression is:
+	A. 18m + 3t
+	B. 81m + 3t
+	C. 18m + 12t
+	D. 81m + 27t
+   The correct answer is D. 81m + 27t.
+
+3. To find which is NOT equivalent to 3 and 3/4 gallons:
+   - 3 and 3/4 gallons = 3.75 gallons.
+   - 1 gallon = 4 quarts, so 3.75 gallons = 3.75 x 4 = 15 quarts.
+   - 1 quart = 2 pints, so 15 quarts = 15 x 2 = 30 pints.
+   - 1 quart = 32 ounces, so 15 quarts = 15 x 32 = 480 ounces = 60 cups.
+   The options are:
+	A. 60 cups (equivalent)
+	B. 15 quarts (equivalent)
+	C. 30 pints (equivalent)
+	D. 13 quarts (not equivalent)
+   The correct answer is D. 13 quarts.
+
+The answers are:
+1. C
+2. D
+3. D
+1. To solve the equation 14 = w + 23, we first isolate w:
+   \( w = 14 - 23 = -9 \).
+   Therefore, the answer is B. −9.
+
+2. To find the quotient of 2.16 ÷ 0.06, perform the division:
+   \( \frac{2.16}{0.06} = 36 \).
+   Therefore, the answer is B. 36.
+
+3. To find \( \frac{1}{6} + \frac{1}{8} \), find a common denominator (which is 24) and add:
+   \( \frac{1}{6} = \frac{4}{24} \) and \( \frac{1}{8} = \frac{3}{24} \),
+   \( \frac{4}{24} + \frac{3}{24} = \frac{7}{24} \).
+   Therefore, the answer is A. 7 over 24.
+
+The correct answers are:
+1. B
+2. B
+3. A
+1. C
+2. A
+3. D
+1. Simplify (2 + 5)^2 − 42.
+   Calculation: (2 + 5)^2 = 7^2 = 49
+   49 - 42 = 7
+   Answer: A. 7
+
+2. Write 27 over 36 in simplest form.
+   Calculation: The greatest common divisor of 27 and 36 is 9.
+   27 ÷ 9 = 3, 36 ÷ 9 = 4
+   Answer: A. 3 over 4
+
+3. Add. 46,911 + 653,092
+   Calculation: 46,911 + 653,092 = 699,003
+   Answer: A. 699,903
+
+Final Answers:
+1. A
+2. A
+3. A
+1. C
+2. A
+3. D
+1. D
+2. A
+3. C
+1. A
+2. C
+3. C
+1. B
+2. D
+3. A
+1. B
+2. D
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. D
+1. To solve \( \frac{3}{4} \times x = 24 \), we first isolate \( x \) by dividing both sides by \( \frac{3}{4} \) or multiplying by its reciprocal \( \frac{4}{3} \):
+   \[
+   x = 24 \times \frac{4}{3} = 32
+   \]
+   So, the answer is B. 32.
+
+2. To express 4.95 as a mixed number, note that 4.95 can be written as \( 4 \frac{95}{100} \). Simplifying \( \frac{95}{100} \) by dividing the numerator and the denominator by their greatest common divisor, 5, gives \( \frac{19}{20} \). Therefore, 4.95 as a mixed number is \( 4 \frac{19}{20} \).
+   So, the answer is A. 4 and 19 over 20.
+
+3. To determine which pair of ratios cannot form a proportion, we simplify each pair:
+   - \( \frac{4}{5} \) and \( \frac{24}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+   - \( \frac{4}{5} \) and \( \frac{20}{25} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+   - \( \frac{36}{45} \) and \( \frac{4}{5} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+   - \( \frac{4}{5} \) and \( \frac{20}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{2}{3} \) (not proportional).
+   So, the answer is D. 4 over 5 and 20 over 30.
+
+Therefore, the answers are:
+1. B
+2. A
+3. D
+1. D
+2. C
+3. B
+1. B
+2. B
+3. B
+1. D
+2. C
+3. D
+1. C
+2. C
+3. B
+1. A
+2. D
+3. C
+1. A
+2. D
+3. C
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+1. D
+2. C
+3. D
+politeness level
+1. To solve the equation −47 = g + 24, we isolate g:
+   g = −47 - 24
+   g = −71
+   So, the answer is A. −71
+
+2. The number 343 written in exponential notation is 7^3 because 7 × 7 × 7 = 343.
+   So, the answer is B. 7^3
+
+3. To write the ratio of 2 cups to 3 quarts as a fraction, first convert both measurements to the same unit. Since 1 quart = 4 cups:
+   3 quarts = 3 × 4 cups = 12 cups
+   The ratio is 2 cups : 12 cups = 2/12, which simplifies to 1/6.
+   So, the answer is D. 1 over 6
+
+Therefore, the answers are:
+1. A
+2. B
+3. D
+1. D
+2. A
+3. C
+1. D
+2. D
+3. A
+To solve these problems, we'll use basic arithmetic operations and follow the order of operations where necessary.
+
+1. For the expression 5 + 2 • 15 + (12 • 4):
+   - First, solve the multiplication and parentheses:
+     2 • 15 = 30
+     12 • 4 = 48
+   - Then add these results to the remaining numbers:
+     5 + 30 + 48 = 83
+   So, the answer is B. 83
+
+2. To find the value of y in the equation y + 2.9 = 11:
+   - Subtract 2.9 from both sides of the equation:
+     y + 2.9 - 2.9 = 11 - 2.9
+     y = 8.1
+   So, the answer is A. 8.1
+
+3. To find the cost of a 6-lb bag of cat food at $.47 per pound:
+   - Multiply the cost per pound by the number of pounds:
+     $.47/lb * 6 lb = $2.82
+   So, the answer is A. $2.82
+
+Therefore, the correct answers are:
+1. B
+2. A
+3. A
+1. C
+2. D
+3. C
+1. D
+2. A
+3. C
+1. D
+2. B
+3. C
+1. To find the best buy, we need to calculate the price per bottle for each option:
+   A. $6.72 / 3 = $2.24 per bottle
+   B. $24.86 / 11 = $2.26 per bottle
+   C. $20.25 / 9 = $2.25 per bottle
+   D. $35.68 / 16 = $2.23 per bottle
+   The best buy is option D, where the price per bottle is the lowest at $2.23.
+
+2. Evaluate (c^2 − b^2)^2 + a^2 for a = 5, b = 3, and c = 2:
+   c^2 = 2^2 = 4
+   b^2 = 3^2 = 9
+   c^2 - b^2 = 4 - 9 = -5
+   (c^2 - b^2)^2 = (-5)^2 = 25
+   a^2 = 5^2 = 25
+   (c^2 − b^2)^2 + a^2 = 25 + 25 = 50
+   The correct answer is C, 50.
+
+3. Find the exact answer: 800 - 301 = 499
+   The correct answer is C, 499.
+
+The answers are:
+1. D
+2. C
+3. C
+1. B
+2. D
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. D
+3. A
+1. To estimate 32 x 68, we can round 32 to 30 and 68 to 70. Then, 30 x 70 = 2100. Therefore, the product is between:
+   A. 18 and 28
+   B. 180 and 280
+   C. 1,800 and 2,800
+   D. 18,000 and 28,000
+   Correct answer: C. 1,800 and 2,800
+
+2. To find the equivalent expression for 9(9m + 3t), distribute the 9:
+   9(9m) + 9(3t) = 81m + 27t. Therefore:
+   A. 18m + 3t
+   B. 81m + 3t
+   C. 18m + 12t
+   D. 81m + 27t
+   Correct answer: D. 81m + 27t
+
+3. To find which is NOT equivalent to 3 and 3/4 gallons:
+   - 3 and 3/4 gallons = 3.75 gallons
+   - 1 gallon = 4 quarts, so 3.75 gallons = 3.75 x 4 = 15 quarts
+   - 1 quart = 2 pints, so 15 quarts = 15 x 2 = 30 pints
+   - 1 quart = 4 cups, so 15 quarts = 15 x 4 = 60 cups
+   Therefore:
+   A. 60 c
+   B. 15 qt
+   C. 30 pt
+   D. 13 qt
+   Correct answer: D. 13 qt
+
+Final answers:
+1. C
+2. D
+3. D
+1. To solve the equation \( 14 = w + 23 \), subtract 23 from both sides:
+\[ 14 - 23 = w \]
+\[ -9 = w \]
+So, the answer is B. −9.
+
+2. To find the quotient of \( 2.16 \div 0.06 \), perform the division:
+\[ 2.16 \div 0.06 = 36 \]
+So, the answer is B. 36.
+
+3. To find \( \frac{1}{6} + \frac{1}{8} \), find a common denominator (which is 24 here) and add:
+\[ \frac{1}{6} = \frac{4}{24} \]
+\[ \frac{1}{8} = \frac{3}{24} \]
+\[ \frac{4}{24} + \frac{3}{24} = \frac{7}{24} \]
+So, the answer is A. 7 over 24.
+
+The correct answers are:
+1. B
+2. B
+3. A
+1. To simplify the ratio of 96 runners to 216 swimmers, we find the greatest common divisor (GCD) of 96 and 216. The GCD of 96 and 216 is 24. Dividing both numbers by 24, we get:
+   \[
+   \frac{96}{216} = \frac{96 \div 24}{216 \div 24} = \frac{4}{9}
+   \]
+   Therefore, the simplest form of the ratio is 4 over 9.
+   - Correct answer: C
+
+2. To find the value of \(6 \cdot 24 \div (8 - 5)\), first solve the expression inside the parentheses:
+   \[
+   8 - 5 = 3
+   \]
+   Then, perform the multiplication and division from left to right:
+   \[
+   6 \cdot 24 = 144
+   \]
+   \[
+   144 \div 3 = 48
+   \]
+   - Correct answer: A
+
+3. The prime factorization of 77 involves breaking it down into its prime factors. Since 77 is not divisible by 2, 3, or 5, we check the next prime number, 7:
+   \[
+   77 \div 7 = 11
+   \]
+   Both 7 and 11 are prime numbers. Thus, the prime factorization of 77 is:
+   \[
+   7 \cdot 11
+   \]
+   - Correct answer: D
+
+The correct answers are:
+1. C
+2. A
+3. D
+1. Simplify (2 + 5)^2 − 42.
+   Calculation: (2 + 5)^2 = 7^2 = 49
+   49 - 42 = 7
+   Answer: A. 7
+
+2. Write 27 over 36 in simplest form.
+   Calculation: The greatest common divisor of 27 and 36 is 9.
+   27 ÷ 9 = 3, 36 ÷ 9 = 4
+   Answer: A. 3 over 4
+
+3. Add. 46,911 + 653,092
+   Calculation: 46,911 + 653,092 = 699,003
+   Answer: A. 699,003
+
+Final answers:
+1. A
+2. A
+3. A
+1. To estimate 4,286 × 390, round each number to one significant figure:
+   4,286 rounds to 4,000 and 390 rounds to 400.
+   Multiply the rounded numbers: 4,000 × 400 = 1,600,000.
+   Therefore, the best estimate is B. 1,600,000.
+
+2. Substitute y = 8 into the expression −7(y − 6):
+   −7(8 − 6) = −7(2) = −14.
+   Therefore, the correct answer is A. −14.
+
+3. To convert grams to centigrams, remember that 1 gram = 100 centigrams.
+   Therefore, 0.32 grams = 0.32 × 100 = 32 centigrams.
+   The correct answer is A. 32.
+
+The correct answers are:
+1. B
+2. A
+3. A
+1. To find which fraction is greater than 2/5, we convert all options to a common denominator or compare their decimal forms:
+   - 2/5 = 0.4
+   - 1/5 = 0.2
+   - 1/10 = 0.1
+   - 4/10 = 0.4
+   - 5/10 = 0.5
+   The fraction greater than 2/5 is 5/10.
+
+2. To find the product of 0.07 and 5.8:
+   - \(0.07 \times 5.8 = 0.406\)
+
+3. To solve the expression 4 ÷ 2 • 2 + 8 − 4, follow the order of operations (PEMDAS/BODMAS):
+   - 4 ÷ 2 = 2
+   - 2 • 2 = 4
+   - 4 + 8 = 12
+   - 12 − 4 = 8
+
+The answers are:
+1. D
+2. A
+3. C
+1. To convert the mixed number 4 and 4/5 to an improper fraction, multiply the whole number by the denominator and add the numerator:
+   \( 4 \times 5 + 4 = 20 + 4 = 24 \)
+   So, \( \frac{24}{5} \).
+   Answer: C. 24 over 5
+
+2. To find which ratio can form a proportion with 3/8, simplify each option to see if it equals 3/8:
+   A. \( \frac{18}{40} = \frac{9}{20} \) (not equal to 3/8)
+   B. \( \frac{18}{56} = \frac{9}{28} \) (not equal to 3/8)
+   C. \( \frac{24}{64} = \frac{3}{8} \) (equal to 3/8)
+   D. \( \frac{15}{48} = \frac{5}{16} \) (not equal to 3/8)
+   Answer: C. 24 over 64
+
+3. To find the LCM (Least Common Multiple) of 24 and 36:
+   Factorize each number:
+   \( 24 = 2^3 \times 3 \)
+   \( 36 = 2^2 \times 3^2 \)
+   Take the highest power of each prime factor:
+   \( LCM = 2^3 \times 3^2 = 8 \times 9 = 72 \)
+   Answer: C. 72
+
+Corrected Answers:
+1. C
+2. C
+3. C
+1. B
+2. D
+3. A
+1. B
+2. D
+3. B
+1. B
+2. B
+3. D
+1. To solve \( \frac{5}{8}m = 6 \), first isolate \( m \) by multiplying both sides by the reciprocal of \( \frac{5}{8} \), which is \( \frac{8}{5} \):
+
+\[
+m = 6 \times \frac{8}{5} = \frac{48}{5} = 9\frac{3}{5}
+\]
+
+None of the options match \( 9\frac{3}{5} \), but the closest option is:
+D. 9 and 3 over 5
+
+2. A decade consists of 10 years. Therefore, the answer is:
+B. 10
+
+3. To determine which ratio cannot form a proportion with \( \frac{8}{18} \), simplify \( \frac{8}{18} \) to \( \frac{4}{9} \). Then compare each option:
+
+A. \( \frac{46}{108} \) simplifies to \( \frac{23}{54} \) (not \( \frac{4}{9} \))
+B. \( \frac{12}{27} \) simplifies to \( \frac{4}{9} \)
+C. \( \frac{60}{135} \) simplifies to \( \frac{4}{9} \)
+D. \( \frac{4}{9} \) is already \( \frac{4}{9} \)
+
+The ratio that cannot form a proportion with \( \frac{4}{9} \) is:
+A. 46 over 108
+
+Final answers:
+1. D
+2. B
+3. A
+1. To solve the equation \( \frac{3}{4} \times x = 24 \), we need to isolate \( x \). We do this by multiplying both sides of the equation by the reciprocal of \( \frac{3}{4} \), which is \( \frac{4}{3} \).
+
+\[
+x = 24 \times \frac{4}{3} = 32
+\]
+
+So, the answer is:
+A. 32
+
+2. To write 4.95 as a mixed number, we recognize that 4.95 is the same as \( 4 \frac{95}{100} \). Simplifying \( \frac{95}{100} \) by dividing both the numerator and the denominator by their greatest common divisor, 5, we get:
+
+\[
+\frac{95}{100} = \frac{19}{20}
+\]
+
+Thus, 4.95 as a mixed number is:
+A. 4 and 19 over 20
+
+3. To determine which pair of ratios cannot form a proportion, we simplify each pair:
+- \( \frac{4}{5} \) and \( \frac{24}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+- \( \frac{4}{5} \) and \( \frac{20}{25} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+- \( \frac{36}{45} \) and \( \frac{4}{5} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+- \( \frac{4}{5} \) and \( \frac{20}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{2}{3} \) (not proportional).
+
+Thus, the pair that cannot form a proportion is:
+D. 4 over 5 and 20 over 30
+
+The correct answers are:
+1. B
+2. A
+3. D
+1. D
+2. C
+3. B
+1. B
+2. B
+3. B
+1. D
+2. C
+3. D
+1. To solve \( \frac{13}{14} + \frac{7}{14} \), you add the numerators since the denominators are the same:
+\[ \frac{13}{14} + \frac{7}{14} = \frac{13 + 7}{14} = \frac{20}{14} = \frac{10}{7} = 1 \frac{3}{7} \]
+So, the answer is B.
+
+2. To find the value of \( 4x + 9 \) when \( x = 4 \):
+\[ 4(4) + 9 = 16 + 9 = 25 \]
+So, the answer is C.
+
+3. To find the value of \( 2816 \times 7 \):
+\[ 2816 \times 7 = 19712 \]
+So, the answer is D.
+
+Therefore, the answers are:
+1. B
+2. C
+3. D
+1. To find the exact answer for 145 + 281 + 62:
+   145 + 281 = 426
+   426 + 62 = 488
+   So, the answer is B. 488
+
+2. To find the value of the expression −16 + 13 + (−33):
+   −16 + 13 = −3
+   −3 + (−33) = −36
+   So, the answer is D. −36
+
+3. To solve the equation 1.2 = 0.4y using mental math:
+   Divide both sides by 0.4:
+   \( y = \frac{1.2}{0.4} = 3 \)
+   So, the answer is D. 3
+
+The answers are:
+1. B
+2. D
+3. D
+1. A
+2. D
+3. C
+1. A
+2. A
+3. C
+1. C
+2. B
+3. C
+1. To find the number that when multiplied by 4 gives 36, we solve the equation \(4x = 36\). Dividing both sides by 4, we get \(x = 9\). Therefore, the correct answer is:
+   D. 9
+
+2. To find the median of the set of data 23, 13, 18, 29, 32, 25, we first arrange the numbers in ascending order: 13, 18, 23, 25, 29, 32. Since there are six numbers (an even number), the median will be the average of the third and fourth numbers. Thus, median = \(\frac{23 + 25}{2} = 24\). Therefore, the correct answer is:
+   B. 24
+
+3. The prime factorization of 48 involves breaking it down into prime numbers. We start by dividing 48 by the smallest prime number 2:
+   \(48 = 2 \times 24\),
+   \(24 = 2 \times 12\),
+   \(12 = 2 \times 6\),
+   \(6 = 2 \times 3\).
+   So, \(48 = 2^4 \times 3\). Therefore, the correct answer is:
+   D. 2^4 • 3
+
+The answers are:
+1. D
+2. B
+3. D
+politeness level
+1. To solve the equation −47 = g + 24, we isolate g:
+   g = −47 - 24
+   g = −71
+   Answer: A. −71
+
+2. To find the number written in exponential notation equivalent to 343:
+   343 can be expressed as 7^3 (since 7 × 7 × 7 = 343).
+   Answer: B. 7^3
+
+3. To write the ratio of 2 cups to 3 quarts as a fraction in simplest form:
+   First, note that 1 quart = 4 cups, so 3 quarts = 12 cups.
+   The ratio is then 2 cups : 12 cups = 2/12 = 1/6 after simplification.
+   Answer: D. 1 over 6
+
+Therefore, the answers are:
+1. A
+2. B
+3. D
+1. D
+2. A
+3. C
+1. D
+2. D
+3. A
+1. C
+2. A
+3. A
+1. C
+2. D
+3. C
+1. D
+2. A
+3. C
+1. D
+2. B
+3. C
+1. To find the best buy, we need to calculate the price per bottle for each option:
+   - A: $6.72 / 3 = $2.24 per bottle
+   - B: $24.86 / 11 = $2.26 per bottle
+   - C: $20.25 / 9 = $2.25 per bottle
+   - D: $35.68 / 16 = $2.23 per bottle
+   The best buy is D, as it has the lowest cost per bottle.
+
+2. Evaluate the expression (c^2 − b^2)^2 + a^2 for a = 5, b = 3, and c = 2:
+   - c^2 = 2^2 = 4
+   - b^2 = 3^2 = 9
+   - c^2 - b^2 = 4 - 9 = -5
+   - (c^2 - b^2)^2 = (-5)^2 = 25
+   - a^2 = 5^2 = 25
+   - (c^2 − b^2)^2 + a^2 = 25 + 25 = 50
+   The correct answer is C.
+
+3. Find the exact answer for 800 - 301:
+   - 800 - 301 = 499
+   The correct answer is C.
+
+Therefore, the answers are:
+1. D
+2. C
+3. C
+1. B
+2. D
+3. A
+1. A
+2. A
+3. C
+1. D
+2. D
+3. A
+1. To solve 2,396 – 1,709:
+   2,396
+- 1,709
+---------
+   687
+   So, the answer is A. 687
+
+2. To find which ratio can form a proportion with 6 over 9, we simplify 6/9 to 2/3. We need to find a ratio that simplifies to 2/3:
+   A. 8/12 simplifies to 2/3
+   B. 9/6 simplifies to 3/2
+   C. 2/6 simplifies to 1/3
+   D. 24/27 simplifies to 8/9
+   So, the answer is A. 8 over 12
+
+3. To find which pair of ratios can form a proportion, we need to check if the cross products are equal:
+   A. 2/5 and 8/10 simplifies to 2/5 and 4/5 (not equal)
+   B. 2/5 and 10/15 simplifies to 2/5 and 2/3 (not equal)
+   C. 2/5 and 4/25 does not simplify to equal ratios
+   D. 2/5 and 6/15 simplifies to 2/5 and 2/5 (equal)
+   So, the answer is D. 2 over 5 and 6 over 15
+
+Therefore, the answers are:
+1. A
+2. A
+3. D
+1. To estimate 32 x 68, we can round 32 to 30 and 68 to 70. Then, 30 x 70 = 2100. So, the product is between:
+   A. 18 and 28
+   B. 180 and 280
+   C. 1,800 and 2,800
+   D. 18,000 and 28,000
+   Correct answer: C. 1,800 and 2,800
+
+2. To find the equivalent expression for 9(9m + 3t), distribute the 9:
+   9(9m) + 9(3t) = 81m + 27t. So, the equivalent expression is:
+   A. 18m + 3t
+   B. 81m + 3t
+   C. 18m + 12t
+   D. 81m + 27t
+   Correct answer: D. 81m + 27t
+
+3. To find which is NOT equivalent to 3 and 3/4 gallons:
+   - 3 and 3/4 gallons = 3.75 gallons
+   - 1 gallon = 4 quarts, so 3.75 gallons = 3.75 x 4 = 15 quarts
+   - 1 quart = 2 pints, so 15 quarts = 30 pints
+   - 1 quart = 4 cups, so 15 quarts = 60 cups
+   The options are:
+   A. 60 cups (equivalent)
+   B. 15 quarts (equivalent)
+   C. 30 pints (equivalent)
+   D. 13 quarts (not equivalent)
+   Correct answer: D. 13 qt
+
+Final answers:
+1. C
+2. D
+3. D
+1. To solve the equation \( 14 = w + 23 \), subtract 23 from both sides:
+\[ 14 - 23 = w \]
+\[ -9 = w \]
+So, the answer is B. −9.
+
+2. To find the quotient of \( 2.16 \div 0.06 \), perform the division:
+\[ 2.16 \div 0.06 = 36 \]
+So, the answer is B. 36.
+
+3. To find \( \frac{1}{6} + \frac{1}{8} \), find a common denominator (which would be 24 here), and then add:
+\[ \frac{1}{6} = \frac{4}{24} \]
+\[ \frac{1}{8} = \frac{3}{24} \]
+\[ \frac{4}{24} + \frac{3}{24} = \frac{7}{24} \]
+So, the answer is A. 7 over 24.
+
+The answers are:
+1. B
+2. B
+3. A
+1. To simplify the ratio of 96 runners to 216 swimmers, we find the greatest common divisor (GCD) of 96 and 216. The GCD of 96 and 216 is 24. Dividing both numbers by 24 gives:
+   \(\frac{96}{24} = 4\) and \(\frac{216}{24} = 9\).
+   Therefore, the simplified ratio is \(4:9\).
+   Correct answer: C. 4 over 9
+
+2. To solve the expression \(6 \cdot 24 \div (8 - 5)\), first calculate the value inside the parentheses:
+   \(8 - 5 = 3\).
+   Then, perform the multiplication and division from left to right:
+   \(6 \cdot 24 = 144\),
+   \(144 \div 3 = 48\).
+   Correct answer: A. 48
+
+3. The prime factorization of 77 involves finding the prime numbers that multiply to give 77. Since 77 is not divisible by 2, 3, or 5, we check 7:
+   \(77 \div 7 = 11\), and both 7 and 11 are prime numbers.
+   Therefore, the prime factorization of 77 is \(7 \cdot 11\).
+   Correct answer: D. 7 • 11
+
+The answers in the requested format are:
+1. C
+2. A
+3. D
+1. Simplify (2 + 5)^2 − 42.
+   Calculation: (2 + 5)^2 = 7^2 = 49
+   49 - 42 = 7
+   Answer: A. 7
+
+2. Write 27 over 36 in simplest form.
+   Calculation: The greatest common divisor of 27 and 36 is 9.
+   27 ÷ 9 = 3, 36 ÷ 9 = 4
+   Answer: A. 3 over 4
+
+3. Add. 46,911 + 653,092
+   Calculation: 46,911 + 653,092 = 699,003
+   Answer: A. 699,903
+
+Final answers:
+1. A
+2. A
+3. A
+1. C
+2. A
+3. D
+1. D
+2. A
+3. C
+1. To convert the mixed number 4 and 4/5 to an improper fraction:
+   Multiply the whole number by the denominator of the fraction and add the numerator:
+   \( 4 \times 5 + 4 = 20 + 4 = 24 \)
+   So, the improper fraction is \( \frac{24}{5} \).
+   Correct answer: C. 24 over 5
+
+2. To find which ratio can form a proportion with \( \frac{3}{8} \), we need to find a ratio that is equivalent when simplified:
+   - \( \frac{18}{40} \) simplifies to \( \frac{9}{20} \) (not equivalent to \( \frac{3}{8} \))
+   - \( \frac{18}{56} \) simplifies to \( \frac{9}{28} \) (not equivalent to \( \frac{3}{8} \))
+   - \( \frac{24}{64} \) simplifies to \( \frac{3}{8} \) (equivalent to \( \frac{3}{8} \))
+   - \( \frac{15}{48} \) simplifies to \( \frac{5}{16} \) (not equivalent to \( \frac{3}{8} \))
+   Correct answer: C. 24 over 64
+
+3. To find the Least Common Multiple (LCM) of 24 and 36:
+   The multiples of 24 are \( 24, 48, 72, 96, \ldots \)
+   The multiples of 36 are \( 36, 72, 108, \ldots \)
+   The smallest common multiple is 72.
+   Correct answer: C. 72
+
+Final answers:
+1. C
+2. C
+3. C
+1. B
+2. D
+3. A
+1. C
+2. D
+3. B
+1. B
+2. B
+3. D
+1. To solve \( \frac{5}{8}m = 6 \), we first isolate \( m \) by multiplying both sides by the reciprocal of \( \frac{5}{8} \), which is \( \frac{8}{5} \):
+\[ m = 6 \times \frac{8}{5} = \frac{48}{5} = 9.6 \]
+None of the options match 9.6, but converting 9.6 to a mixed number:
+\[ 9.6 = 9 \frac{3}{5} \]
+So, the correct answer is:
+D. 9 and 3 over 5
+
+2. A decade consists of 10 years. Therefore, the answer is:
+B. 10
+
+3. To determine which ratio cannot form a proportion with \( \frac{8}{18} \), simplify \( \frac{8}{18} \) to \( \frac{4}{9} \). Then check each option:
+- \( \frac{46}{108} \) simplifies to \( \frac{23}{54} \), not \( \frac{4}{9} \).
+- \( \frac{12}{27} \) simplifies to \( \frac{4}{9} \).
+- \( \frac{60}{135} \) simplifies to \( \frac{4}{9} \).
+- \( \frac{4}{9} \) is already \( \frac{4}{9} \).
+
+The ratio that cannot form a proportion with \( \frac{8}{18} \) is:
+A. 46 over 108
+
+Final answers:
+1. D
+2. B
+3. A
+Let's solve each question step by step:
+
+1. Solve \( \frac{3}{4} \times x = 24 \).
+   To find \( x \), divide both sides by \( \frac{3}{4} \) or multiply by its reciprocal \( \frac{4}{3} \).
+   \[
+   x = 24 \times \frac{4}{3} = 32
+   \]
+   So, the answer is B. 32.
+
+2. Write 4.95 as a mixed number or fraction in simplest form.
+   4.95 can be expressed as \( 4 \frac{95}{100} \). Simplifying \( \frac{95}{100} \) by dividing the numerator and the denominator by their greatest common divisor, 5, we get \( \frac{19}{20} \).
+   Thus, 4.95 as a mixed number is \( 4 \frac{19}{20} \).
+   So, the answer is A. 4 and 19 over 20.
+
+3. Which pair of ratios CANNOT form a proportion?
+   A proportion exists if the ratios are equivalent when simplified.
+   - \( \frac{4}{5} \) and \( \frac{24}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) respectively.
+   - \( \frac{4}{5} \) and \( \frac{20}{25} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) respectively.
+   - \( \frac{36}{45} \) and \( \frac{4}{5} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) respectively.
+   - \( \frac{4}{5} \) and \( \frac{20}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{2}{3} \) respectively, which are not equivalent.
+   So, the answer is D. 4 over 5 and 20 over 30.
+
+Therefore, the answers are:
+1. B
+2. A
+3. D
+1. D
+2. C
+3. B
+1. B
+2. B
+3. B
+1. D
+2. C
+3. D
+1. C
+2. C
+3. D
+1. To find the sum of 145 + 281 + 62:
+   145 + 281 = 426
+   426 + 62 = 488
+   So, the answer is B. 488
+
+2. To find the value of the expression −16 + 13 + (−33):
+   −16 + 13 = −3
+   −3 + (−33) = −36
+   So, the answer is D. −36
+
+3. To solve the equation 1.2 = 0.4y:
+   Divide both sides by 0.4:
+   \( y = \frac{1.2}{0.4} = 3 \)
+   So, the answer is D. 3
+
+Therefore, the answers are:
+1. B
+2. D
+3. D
+1. A
+2. D
+3. C
+1. A
+2. A
+3. C
+1. C
+2. B
+3. C
+1. A
+2. C
+3. D
+politeness level
+1. To solve the equation −47 = g + 24, we isolate g:
+   g = −47 - 24
+   g = −71
+   Answer: A. −71
+
+2. To find the number written in exponential notation equivalent to 343:
+   343 can be expressed as 7^3.
+   Answer: B. 7^3
+
+3. To write the ratio of 2 cups to 3 quarts as a fraction in simplest form:
+   First, note that 1 quart = 4 cups. Therefore, 3 quarts = 12 cups.
+   The ratio is then 2 cups : 12 cups, which simplifies to 1/6.
+   Answer: D. 1 over 6
+
+Final answers:
+1. A
+2. B
+3. D
+1. D
+2. A
+3. C
+1. D
+2. D
+3. A
+To solve these questions, let's go through each one step by step:
+
+1. Calculate the value of 5 + 2 • 15 + (12 • 4):
+   - First, solve the operations inside the parentheses and the multiplication:
+     \( 2 \cdot 15 = 30 \)
+     \( 12 \cdot 4 = 48 \)
+   - Then add these results to the remaining numbers:
+     \( 5 + 30 + 48 = 83 \)
+   - So, the answer is 83.
+
+2. Solve for y in the equation y + 2.9 = 11:
+   - Subtract 2.9 from both sides of the equation:
+     \( y = 11 - 2.9 = 8.1 \)
+   - So, the answer is 8.1.
+
+3. Calculate the cost of a 6-lb bag of cat food at $.47 per pound:
+   - Multiply the cost per pound by the number of pounds:
+     \( 6 \cdot 0.47 = 2.82 \)
+   - So, the answer is $2.82.
+
+Therefore, the answers are:
+1. B
+2. A
+3. A
+1. C
+2. D
+3. C
+1. D
+2. A
+3. C
+1. D
+2. B
+3. C
+To answer these questions, let's calculate each one step-by-step:
+
+1. To find the best buy among the options, we need to calculate the price per bottle for each option:
+   - A. 3 bottles for $6.72: \( \frac{6.72}{3} = \$2.24 \) per bottle
+   - B. 11 bottles for $24.86: \( \frac{24.86}{11} = \$2.26 \) per bottle
+   - C. 9 bottles for $20.25: \( \frac{20.25}{9} = \$2.25 \) per bottle
+   - D. 16 bottles for $35.68: \( \frac{35.68}{16} = \$2.23 \) per bottle
+
+   The best buy is the option with the lowest cost per bottle, which is option D.
+
+2. To evaluate \( (c^2 - b^2)^2 + a^2 \) for \( a = 5 \), \( b = 3 \), and \( c = 2 \):
+   - First, calculate \( c^2 \) and \( b^2 \):
+     \( c^2 = 2^2 = 4 \)
+     \( b^2 = 3^2 = 9 \)
+   - Then, \( c^2 - b^2 = 4 - 9 = -5 \)
+   - Next, \( (-5)^2 = 25 \)
+   - Finally, \( 25 + a^2 = 25 + 5^2 = 25 + 25 = 50 \)
+
+   The answer is 50.
+
+3. To find the exact answer for \( 800 - 301 \):
+   - \( 800 - 301 = 499 \)
+
+The answers in the requested format are:
+1. D
+2. C
+3. C
+1. B
+2. D
+3. A
+1. A
+2. A
+3. C
+1. D
+2. D
+3. A
+1. A
+2. D
+3. A
+1. C
+2. D
+3. D
+Let's solve each question step-by-step:
+
+1. Solve the equation 14 = w + 23.
+   Subtract 23 from both sides:
+   14 - 23 = w
+   -9 = w
+   So, the answer is B. −9
+
+2. Find the quotient of 2.16 ÷ 0.06.
+   Divide 2.16 by 0.06:
+   2.16 ÷ 0.06 = 36
+   So, the answer is B. 36
+
+3. Find 1 over 6 + 1 over 8.
+   To add fractions, find a common denominator. The least common multiple of 6 and 8 is 24.
+   Convert each fraction:
+   1/6 = 4/24
+   1/8 = 3/24
+   Now add them:
+   4/24 + 3/24 = 7/24
+   So, the answer is A. 7 over 24
+
+Therefore, the correct answers are:
+1. B
+2. B
+3. A
+1. To simplify the ratio of 96 runners to 216 swimmers, we find the greatest common divisor (GCD) of 96 and 216. The GCD of 96 and 216 is 24. Dividing both numbers by 24, we get:
+   \[
+   \frac{96}{216} = \frac{96 \div 24}{216 \div 24} = \frac{4}{9}
+   \]
+   Therefore, the simplest form of the ratio is 4 over 9.
+   Answer: C
+
+2. To solve the expression \(6 \cdot 24 \div (8 - 5)\), we first calculate the value inside the parentheses:
+   \[
+   8 - 5 = 3
+   \]
+   Then, we perform the multiplication and division:
+   \[
+   6 \cdot 24 = 144
+   \]
+   \[
+   144 \div 3 = 48
+   \]
+   Answer: A
+
+3. The prime factorization of 77 involves breaking it down into prime numbers:
+   \[
+   77 = 7 \cdot 11
+   \]
+   Both 7 and 11 are prime numbers, and there are no exponents greater than 1 needed since each prime factor appears only once.
+   Answer: D
+
+Final Answers:
+1. C
+2. A
+3. D
+1. First, calculate (2 + 5)^2 − 42:
+   (2 + 5) = 7
+   7^2 = 49
+   49 − 42 = 7
+   The answer is A. 7
+
+2. Simplify 27 over 36:
+   The greatest common divisor of 27 and 36 is 9.
+   27 ÷ 9 = 3
+   36 ÷ 9 = 4
+   So, 27 over 36 in simplest form is 3 over 4.
+   The answer is A. 3 over 4
+
+3. Add 46,911 + 653,092:
+   46,911 + 653,092 = 699,003
+   The answer is A. 699,003
+
+Therefore, the answers are:
+1. A
+2. A
+3. A
+1. To estimate 4,286 × 390, round each number to one significant figure:
+   4,286 rounds to 4,000 and 390 rounds to 400.
+   Then, 4,000 × 400 = 1,600,000.
+   So, the best estimate is B. 1,600,000.
+
+2. Evaluate −7(y − 6) for y = 8:
+   Substitute y = 8 into the expression:
+   −7(8 − 6) = −7(2) = −14.
+   So, the answer is A. −14.
+
+3. To convert grams to centigrams, remember that 1 gram = 100 centigrams.
+   Therefore, 0.32 g = 0.32 × 100 = 32 cg.
+   So, the answer is A. 32.
+
+The answers are:
+1. B
+2. A
+3. A
+1. D
+2. A
+3. C
+1. A
+2. C
+3. C
+1. B
+2. D
+3. A
+1. C
+2. D
+3. B
+1. B
+2. B
+3. D
+1. To solve \( \frac{5}{8}m = 6 \), we first isolate \( m \) by multiplying both sides by the reciprocal of \( \frac{5}{8} \), which is \( \frac{8}{5} \):
+   \[
+   m = 6 \times \frac{8}{5} = \frac{48}{5} = 9.6
+   \]
+   Converting 9.6 to a mixed number:
+   \[
+   9.6 = 9 \frac{6}{10} = 9 \frac{3}{5}
+   \]
+   This corresponds to option D.
+
+2. A decade consists of 10 years. Therefore, the answer is:
+   \[
+   B. 10
+   \]
+
+3. To determine which ratio cannot form a proportion with \( \frac{8}{18} \), we simplify \( \frac{8}{18} \) to \( \frac{4}{9} \). We then check each option:
+   - \( \frac{46}{108} \) simplifies to \( \frac{23}{54} \), not \( \frac{4}{9} \).
+   - \( \frac{12}{27} \) simplifies to \( \frac{4}{9} \).
+   - \( \frac{60}{135} \) simplifies to \( \frac{4}{9} \).
+   - \( \frac{4}{9} \) is already \( \frac{4}{9} \).
+
+   The ratio that cannot form a proportion with \( \frac{4}{9} \) is \( \frac{46}{108} \), which corresponds to option A.
+
+Therefore, the answers are:
+1. D
+2. B
+3. A
+1. To solve \( \frac{3}{4} x = 24 \), we first isolate \( x \) by multiplying both sides by the reciprocal of \( \frac{3}{4} \), which is \( \frac{4}{3} \):
+   \[
+   x = 24 \times \frac{4}{3} = 32
+   \]
+   So, the answer is B. 32.
+
+2. To write 4.95 as a mixed number, note that 4.95 can be expressed as \( 4 \frac{95}{100} \). Simplifying \( \frac{95}{100} \) by dividing both the numerator and the denominator by their greatest common divisor, which is 5, we get \( \frac{19}{20} \). Thus, 4.95 as a mixed number is \( 4 \frac{19}{20} \).
+   So, the answer is A. 4 and 19 over 20.
+
+3. To determine which pair of ratios cannot form a proportion, we simplify each pair:
+   - \( \frac{4}{5} \) and \( \frac{24}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+   - \( \frac{4}{5} \) and \( \frac{20}{25} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+   - \( \frac{36}{45} \) and \( \frac{4}{5} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+   - \( \frac{4}{5} \) and \( \frac{20}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{2}{3} \) (not proportional).
+   Therefore, the pair \( \frac{4}{5} \) and \( \frac{20}{30} \) cannot form a proportion.
+   So, the answer is D. 4 over 5 and 20 over 30.
+
+The answers are:
+1. B
+2. A
+3. D
+1. D
+2. C
+3. B
+1. C
+2. B
+3. B
+1. D
+2. C
+3. D
+1. C
+2. C
+3. D
+1. To find the exact answer to 145 + 281 + 62:
+   145 + 281 = 426
+   426 + 62 = 488
+   So, the answer is B. 488
+
+2. To find the value of the expression −16 + 13 + (−33):
+   −16 + 13 = −3
+   −3 + (−33) = −36
+   So, the answer is D. −36
+
+3. To solve the equation 1.2 = 0.4y using mental math:
+   Divide both sides by 0.4:
+   \( y = \frac{1.2}{0.4} = 3 \)
+   So, the answer is D. 3
+
+Therefore, the correct answers are:
+1. B
+2. D
+3. D
+1. A
+2. D
+3. C
+1. A
+2. A
+3. C
+1. C
+2. B
+3. D
+1. D
+2. C
+3. D
+politeness level
+1. To solve the equation −47 = g + 24, we first isolate g by subtracting 24 from both sides:
+   \(-47 - 24 = g\)
+   \(-71 = g\)
+   So, the answer is A. −71.
+
+2. To find which number written in exponential notation is equivalent to 343, we recognize that 343 is \(7 \times 7 \times 7\), which is \(7^3\).
+   So, the answer is B. \(7^3\).
+
+3. To write the ratio of 2 cups to 3 quarts as a fraction in simplest form, we first convert quarts to cups since 1 quart = 4 cups. Therefore, 3 quarts = 12 cups.
+   The ratio is then \( \frac{2 \text{ cups}}{12 \text{ cups}} \).
+   Simplifying this fraction gives \( \frac{2}{12} = \frac{1}{6} \).
+   So, the answer is D. \( \frac{1}{6} \).
+
+The correct answers are:
+1. A
+2. B
+3. D
+1. D
+2. A
+3. C
+1. D
+2. D
+3. A
+To solve these problems, let's go through each one step-by-step:
+
+1. Calculate the value of 5 + 2 • 15 + (12 • 4):
+   - First, solve the multiplication and parentheses:
+     2 • 15 = 30
+     12 • 4 = 48
+   - Then add these values to 5:
+     5 + 30 + 48 = 83
+   So, the answer is B. 83
+
+2. Solve for y in the equation y + 2.9 = 11:
+   - Subtract 2.9 from both sides:
+     y + 2.9 - 2.9 = 11 - 2.9
+     y = 8.1
+   So, the answer is A. 8.1
+
+3. Calculate the cost of a 6-lb bag of cat food at $.47/lb:
+   - Multiply the cost per pound by the number of pounds:
+     6 lb × $.47/lb = $2.82
+   So, the answer is A. $2.82
+
+Therefore, the correct answers are:
+1. B
+2. A
+3. A
+1. C
+2. D
+3. C
+1. D
+2. A
+3. C
+1. D
+2. B
+3. C
+1. To find the best buy, we need to calculate the price per bottle for each option:
+   A. 3 bottles for $6.72 → $6.72 / 3 = $2.24 per bottle
+   B. 11 bottles for $24.86 → $24.86 / 11 = $2.26 per bottle
+   C. 9 bottles for $20.25 → $20.25 / 9 = $2.25 per bottle
+   D. 16 bottles for $35.68 → $35.68 / 16 = $2.23 per bottle
+   The best buy is option D, as it has the lowest cost per bottle.
+
+2. Evaluate (c^2 − b^2)^2 + a^2 for a = 5, b = 3, and c = 2.
+   First, calculate c^2 and b^2:
+   c^2 = 2^2 = 4
+   b^2 = 3^2 = 9
+   Then, c^2 − b^2 = 4 - 9 = -5
+   Now, (-5)^2 = 25
+   Finally, 25 + a^2 = 25 + 5^2 = 25 + 25 = 50
+   The answer is C.
+
+3. Find the exact answer: 800 - 301 = 499
+   The answer is C.
+
+Therefore, the answers are:
+1. D
+2. C
+3. C
+1. B
+2. D
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. Subtract. 2,396 – 1,709
+   Calculation: 2396 - 1709 = 687
+   Correct Answer: A. 687
+
+2. Which ratio can form a proportion with 6 over 9?
+   Simplifying 6/9 gives 2/3.
+   Checking each option:
+   A. 8/12 simplifies to 2/3, which matches.
+   B. 9/6 simplifies to 3/2, which does not match.
+   C. 2/6 simplifies to 1/3, which does not match.
+   D. 24/27 simplifies to 8/9, which does not match.
+   Correct Answer: A. 8 over 12
+
+3. Which pair of ratios can form a proportion?
+   Simplifying each pair:
+   A. 2/5 and 8/10 simplifies to 2/5 and 4/5, which do not match.
+   B. 2/5 and 10/15 simplifies to 2/5 and 2/3, which do not match.
+   C. 2/5 and 4/25 does not simplify to the same ratio.
+   D. 2/5 and 6/15 simplifies to 2/5 and 2/5, which match.
+   Correct Answer: D. 2 over 5 and 6 over 15
+
+Final Answers:
+1. A
+2. A
+3. D
+1. C
+2. D
+3. D
+1. To solve the equation 14 = w + 23, subtract 23 from both sides:
+   \( w = 14 - 23 = -9 \)
+   So, the answer is B. −9
+
+2. To find the quotient of 2.16 ÷ 0.06, perform the division:
+   \( \frac{2.16}{0.06} = 36 \)
+   So, the answer is B. 36
+
+3. To find \( \frac{1}{6} + \frac{1}{8} \), first find a common denominator, which is 24:
+   \( \frac{1}{6} = \frac{4}{24} \) and \( \frac{1}{8} = \frac{3}{24} \)
+   Adding these gives \( \frac{4}{24} + \frac{3}{24} = \frac{7}{24} \)
+   So, the answer is A. 7 over 24
+
+Therefore, the correct answers are:
+1. B
+2. B
+3. A
+To answer your questions:
+
+1. To find the simplest form of the ratio of 96 runners to 216 swimmers, we need to simplify the fraction 96/216. The greatest common divisor (GCD) of 96 and 216 is 24. Dividing both the numerator and the denominator by 24, we get:
+   \[
+   \frac{96}{216} = \frac{96 \div 24}{216 \div 24} = \frac{4}{9}
+   \]
+   Therefore, the correct answer is:
+   C. 4 over 9
+
+2. To find the value of \(6 \cdot 24 \div (8 - 5)\), first solve the expression in the parentheses:
+   \[
+   8 - 5 = 3
+   \]
+   Then perform the multiplication and division from left to right:
+   \[
+   6 \cdot 24 = 144
+   \]
+   \[
+   144 \div 3 = 48
+   \]
+   Therefore, the correct answer is:
+   A. 48
+
+3. To write the prime factorization of 77, we find the prime numbers that multiply to give 77. The number 77 can be factored into:
+   \[
+   77 = 7 \cdot 11
+   \]
+   Both 7 and 11 are prime numbers. Therefore, the correct answer is:
+   D. 7 • 11
+
+The correct answers are:
+1. C
+2. A
+3. D
+1. To solve (2 + 5)^2 − 42:
+   (2 + 5) = 7
+   7^2 = 49
+   49 - 42 = 7
+   Answer: A. 7
+
+2. To simplify 27 over 36:
+   The greatest common divisor of 27 and 36 is 9.
+   27 ÷ 9 = 3
+   36 ÷ 9 = 4
+   So, 27/36 simplifies to 3/4.
+   Answer: A. 3 over 4
+
+3. To add 46,911 + 653,092:
+   46,911 + 653,092 = 699,003
+   Answer: A. 699,903
+
+Final Answers:
+1. A
+2. A
+3. A
+1. To estimate 4,286 × 390, round each number to a significant figure:
+   4,286 rounds to 4,000 and 390 rounds to 400.
+   Multiply the rounded numbers: 4,000 × 400 = 1,600,000.
+   So, the best estimate is B. 1,600,000.
+
+2. Evaluate −7(y − 6) for y = 8:
+   Substitute y = 8 into the expression: −7(8 − 6) = −7(2) = −14.
+   So, the answer is A. −14.
+
+3. To convert grams to centigrams:
+   1 gram = 100 centigrams, so 0.32 grams = 0.32 × 100 = 32 centigrams.
+   So, the answer is A. 32.
+
+The answers are:
+1. B
+2. A
+3. A
+1. D
+2. A
+3. C
+1. A
+2. C
+3. C
+1. B
+2. D
+3. A
+1. B
+2. D
+3. B
+1. B
+2. B
+3. D
+1. To solve \( \frac{5}{8}m = 6 \), first isolate \( m \) by multiplying both sides by the reciprocal of \( \frac{5}{8} \), which is \( \frac{8}{5} \):
+\[ m = 6 \times \frac{8}{5} = \frac{48}{5} = 9.6 \]
+None of the options match 9.6, but converting 9.6 to a mixed number gives \( 9 \frac{3}{5} \).
+So, the answer is:
+D. 9 and 3 over 5
+
+2. A decade consists of 10 years. So, the answer is:
+B. 10
+
+3. To determine which ratio cannot form a proportion with \( \frac{8}{18} \), simplify \( \frac{8}{18} \) to \( \frac{4}{9} \). Now check each option:
+A. \( \frac{46}{108} \) simplifies to \( \frac{23}{54} \), not \( \frac{4}{9} \).
+B. \( \frac{12}{27} \) simplifies to \( \frac{4}{9} \).
+C. \( \frac{60}{135} \) simplifies to \( \frac{4}{9} \).
+D. \( \frac{4}{9} \) is already \( \frac{4}{9} \).
+
+The ratio that cannot form a proportion with \( \frac{8}{18} \) is:
+A. 46 over 108
+
+Therefore, the answers are:
+1. D
+2. B
+3. A
+1. To solve \( \frac{3}{4} \times x = 24 \), we first isolate \( x \) by dividing both sides by \( \frac{3}{4} \) or multiplying by its reciprocal \( \frac{4}{3} \).
+
+\[ x = 24 \times \frac{4}{3} = 32 \]
+
+So, the answer is:
+A. 32
+
+2. To write 4.95 as a mixed number, note that 4.95 can be expressed as \( 4 \frac{95}{100} \). Simplifying \( \frac{95}{100} \) by dividing both numerator and denominator by their greatest common divisor, 5, we get \( \frac{19}{20} \).
+
+So, the answer is:
+A. 4 and 19 over 20
+
+3. To find which pair of ratios cannot form a proportion, we simplify each pair:
+- \( \frac{4}{5} \) and \( \frac{24}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+- \( \frac{4}{5} \) and \( \frac{20}{25} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+- \( \frac{36}{45} \) and \( \frac{4}{5} \) simplify to \( \frac{4}{5} \) and \( \frac{4}{5} \) (proportional).
+- \( \frac{4}{5} \) and \( \frac{20}{30} \) simplify to \( \frac{4}{5} \) and \( \frac{2}{3} \) (not proportional).
+
+So, the answer is:
+D. 4 over 5 and 20 over 30
+
+Final answers:
+1. B
+2. A
+3. D
+1. D
+2. C
+3. B
+1. B
+2. B
+3. B
+1. B
+2. C
+3. D
+1. C
+2. C
+3. B
+1. A
+2. D
+3. C
+1. A
+2. D
+3. C
+1. A
+2. A
+3. C
+1. C
+2. B
+3. D
+1. D
+2. C
+3. D
+politeness level
+Let's solve each question one by one:
+
+1. Solve the equation −47 = g + 24.
+   To find g, subtract 24 from both sides:
+   \[-47 - 24 = g\]
+   \[-71 = g\]
+   So, the answer is A. −71
+
+2. Which number written in exponential notation is equivalent to 343?
+   We know:
+   \[7^3 = 7 \times 7 \times 7 = 343\]
+   So, the answer is B. 7^3
+
+3. Write the ratio of 2 cups to 3 qt as a fraction in simplest form.
+   First, convert quarts to cups (1 quart = 4 cups):
+   \[3 \text{ qt} = 3 \times 4 \text{ cups} = 12 \text{ cups}\]
+   Now, write the ratio of 2 cups to 12 cups as a fraction:
+   \[\frac{2}{12} = \frac{1}{6}\]
+   So, the answer is D. 1 over 6
+
+Therefore, the correct answers are:
+1. A
+2. B
+3. D
+1. D
+2. A
+3. C
+1. D
+2. D
+3. A
+To solve these problems, let's go through each one step-by-step:
+
+1. For the expression 5 + 2 • 15 + (12 • 4):
+   - First, solve the multiplication: 2 • 15 = 30 and 12 • 4 = 48.
+   - Then, add these results to the remaining numbers: 5 + 30 + 48 = 83.
+   So, the correct answer is B. 83.
+
+2. To find the value of y in the equation y + 2.9 = 11:
+   - Subtract 2.9 from both sides: y = 11 - 2.9 = 8.1.
+   So, the correct answer is A. 8.1.
+
+3. To find the cost of a 6-lb bag of cat food at $.47 per pound:
+   - Multiply the cost per pound by the number of pounds: 6 lb × $.47/lb = $2.82.
+   So, the correct answer is A. $2.82.
+
+Therefore, the correct answers are:
+1. B
+2. A
+3. A
+1. C
+2. D
+3. C
+1. D
+2. A
+3. C
+Here are the correct answers to your questions:
+
+1. To find the difference of 142.76 – 16.5, you subtract 16.5 from 142.76:
+   142.76 - 16.5 = 126.26
+   The correct answer is D. 126.26
+
+2. To solve 8y = 56 using mental math, divide both sides by 8:
+   y = 56 / 8 = 7
+   The correct answer is B. 7
+
+3. To find which pair of expressions are equivalent, evaluate each option:
+   A. 7(2x) = 14x and 9x are not equivalent.
+   B. 3x + 5x = 8x and 15x are not equivalent.
+   C. 4(2x — 6) = 8x - 24 and 8x - 24 are equivalent.
+   D. x+x+x+x = 4x and x^4 are not equivalent.
+   The correct answer is C. 4(2x — 6) and 8x — 24
+
+Therefore, the answers are:
+1. D
+2. B
+3. C
+1. To find the best buy, we need to calculate the price per bottle for each option:
+   A. 3 bottles for $6.72 → $6.72 / 3 = $2.24 per bottle
+   B. 11 bottles for $24.86 → $24.86 / 11 = $2.26 per bottle
+   C. 9 bottles for $20.25 → $20.25 / 9 = $2.25 per bottle
+   D. 16 bottles for $35.68 → $35.68 / 16 = $2.23 per bottle
+   Best buy: D (lowest cost per bottle)
+
+2. Evaluate (c^2 − b^2)^2 + a^2 for a = 5, b = 3, and c = 2:
+   c^2 = 2^2 = 4
+   b^2 = 3^2 = 9
+   c^2 - b^2 = 4 - 9 = -5
+   (c^2 - b^2)^2 = (-5)^2 = 25
+   a^2 = 5^2 = 25
+   (c^2 − b^2)^2 + a^2 = 25 + 25 = 50
+   Answer: C
+
+3. Find the exact answer: 800 - 301 = 499
+   Answer: C
+
+Final answers:
+1. D
+2. C
+3. C
+1. B
+2. D
+3. A
+1. A
+2. A
+3. C
+1. D
+2. D
+3. A
+1. Subtract. 2,396 – 1,709
+   Calculation: 2396 - 1709 = 687
+   Correct Answer: A. 687
+
+2. Which ratio can form a proportion with 6 over 9?
+   Simplifying 6/9 gives 2/3.
+   Checking each option:
+   A. 8/12 simplifies to 2/3, which matches.
+   B. 9/6 simplifies to 3/2, which does not match.
+   C. 2/6 simplifies to 1/3, which does not match.
+   D. 24/27 simplifies to 8/9, which does not match.
+   Correct Answer: A. 8 over 12
+
+3. Which pair of ratios can form a proportion?
+   Simplifying each pair:
+   A. 2/5 and 8/10 simplifies to 2/5 and 4/5, which do not match.
+   B. 2/5 and 10/15 simplifies to 2/5 and 2/3, which do not match.
+   C. 2/5 and 4/25 simplifies to 2/5 and 4/25, which do not match.
+   D. 2/5 and 6/15 simplifies to 2/5 and 2/5, which match.
+   Correct Answer: D. 2 over 5 and 6 over 15
+
+Final answers:
+1. A
+2. A
+3. D
+1. To estimate 32 x 68, you can round 32 up to 30 and 68 up to 70. Then, 30 x 70 = 2100. So, the product is between:
+   C. 1,800 and 2,800
+
+2. To find the equivalent expression of 9(9m + 3t), distribute the 9:
+   9 * 9m + 9 * 3t = 81m + 27t. Therefore, the equivalent expression is:
+   D. 81m + 27t
+
+3. To find which option is NOT equivalent to 3 and 3/4 gallons:
+   - 3 and 3/4 gallons = 3.75 gallons.
+   - Since 1 gallon = 4 quarts, 3.75 gallons = 3.75 * 4 = 15 quarts.
+   - Therefore, the option that is NOT equivalent is:
+   D. 13 qt
+
+The answers are:
+1. C
+2. D
+3. D
+1. To solve the equation \(14 = w + 23\), subtract 23 from both sides:
+\[ w = 14 - 23 = -9 \]
+So, the answer is B. -9.
+
+2. To find the quotient of \(2.16 \div 0.06\), perform the division:
+\[ 2.16 \div 0.06 = 36 \]
+So, the answer is B. 36.
+
+3. To find \( \frac{1}{6} + \frac{1}{8} \), find a common denominator (which is 24 here) and add:
+\[ \frac{1}{6} = \frac{4}{24}, \quad \frac{1}{8} = \frac{3}{24} \]
+\[ \frac{4}{24} + \frac{3}{24} = \frac{7}{24} \]
+So, the answer is A. 7 over 24.
+
+Therefore, the answers are:
+1. B
+2. B
+3. A
+Here are the answers to the questions provided:
+
+1. To simplify the ratio of 96 runners to 216 swimmers, we find the greatest common divisor (GCD) of 96 and 216. The GCD of 96 and 216 is 24. Dividing both numbers by 24, we get:
+   \[
+   \frac{96}{216} = \frac{96 \div 24}{216 \div 24} = \frac{4}{9}
+   \]
+   Therefore, the simplest form of the ratio is 4 over 9.
+   Answer: C. 4 over 9
+
+2. To find the value of \(6 \cdot 24 \div (8 - 5)\), we first solve the expression in the parentheses:
+   \[
+   8 - 5 = 3
+   \]
+   Then, we perform the multiplication and division:
+   \[
+   6 \cdot 24 \div 3 = 144 \div 3 = 48
+   \]
+   Answer: A. 48
+
+3. The prime factorization of 77 involves finding the prime numbers that multiply to give 77. The factors of 77 are 7 and 11, both of which are prime numbers. Thus, the prime factorization of 77 is:
+   \[
+   77 = 7 \cdot 11
+   \]
+   Answer: D. 7 • 11
+
+Therefore, the answers are:
+1. C
+2. A
+3. D
+1. Simplify (2 + 5)^2 − 42.
+   Calculation: (2 + 5)^2 = 7^2 = 49
+   49 - 42 = 7
+   Answer: A. 7
+
+2. Write 27 over 36 in simplest form.
+   Calculation: The greatest common divisor (GCD) of 27 and 36 is 9.
+   27 ÷ 9 = 3, 36 ÷ 9 = 4
+   Answer: A. 3 over 4
+
+3. Add. 46,911 + 653,092
+   Calculation: 46,911 + 653,092 = 700,003
+   Answer: B. 700,003
+
+Final answers:
+1. A
+2. A
+3. B
+1. C
+2. A
+3. D
+1. D
+2. A
+3. C
+1. To convert the mixed number 4 and 4/5 to an improper fraction, multiply the whole number by the denominator of the fraction and add the numerator of the fraction:
+   \( 4 \times 5 + 4 = 20 + 4 = 24 \)
+   So, \( \frac{24}{5} \).
+   Answer: C
+
+2. To find which ratio can form a proportion with 3/8, simplify each option to see if it equals 3/8:
+   A. \( \frac{18}{40} \) simplifies to \( \frac{9}{20} \) (not equal to 3/8)
+   B. \( \frac{18}{56} \) simplifies to \( \frac{9}{28} \) (not equal to 3/8)
+   C. \( \frac{24}{64} \) simplifies to \( \frac{3}{8} \) (equal to 3/8)
+   D. \( \frac{15}{48} \) simplifies to \( \frac{5}{16} \) (not equal to 3/8)
+   Answer: C
+
+3. To find the LCM of 24 and 36, list the multiples of each and find the smallest common multiple:
+   Multiples of 24: 24, 48, 72, 96, ...
+   Multiples of 36: 36, 72, 108, ...
+   The smallest common multiple is 72.
+   Answer: C
+
+So, the correct answers are:
+1. C
+2. C
+3. C
+1. B
+2. D
+3. A
+1. B
+2. D
+3. B
+1. B
+2. B
+3. D
+1. To solve \( \frac{5}{8}m = 6 \), we first isolate \( m \) by multiplying both sides by the reciprocal of \( \frac{5}{8} \), which is \( \frac{8}{5} \):
+\[ m = 6 \times \frac{8}{5} = \frac{48}{5} = 9.6 \]
+None of the provided options match 9.6, but let's convert it to a mixed number:
+\[ 9.6 = 9 \frac{6}{10} = 9 \frac{3}{5} \]
+So, the correct answer is:
+D. 9 and 3 over 5
+
+2. A decade consists of 10 years. So, the correct answer is:
+B. 10
+
+3. To determine which ratio cannot form a proportion with \( \frac{8}{18} \), we simplify \( \frac{8}{18} \) to \( \frac{4}{9} \). We then check each option:
+A. \( \frac{46}{108} \) simplifies to \( \frac{23}{54} \), not \( \frac{4}{9} \).
+B. \( \frac{12}{27} \) simplifies to \( \frac{4}{9} \).
+C. \( \frac{60}{135} \) simplifies to \( \frac{4}{9} \).
+D. \( \frac{4}{9} \) is already \( \frac{4}{9} \).
+
+The ratio that cannot form a proportion with \( \frac{4}{9} \) is:
+A. 46 over 108
+
+So, the answers are:
+1. D
+2. B
+3. A
+1. To solve the equation \( \frac{3}{4}x = 24 \), you need to isolate \( x \) by multiplying both sides by the reciprocal of \( \frac{3}{4} \), which is \( \frac{4}{3} \).
+
+\[
+x = 24 \times \frac{4}{3} = 32
+\]
+
+So, the answer is:
+A. 32
+
+2. To write 4.95 as a mixed number, note that 4.95 can be expressed as \( 4 \frac{95}{100} \). Simplifying \( \frac{95}{100} \) by dividing both numerator and denominator by their greatest common divisor, 5, gives \( \frac{19}{20} \). Thus, 4.95 is \( 4 \frac{19}{20} \).
+
+So, the answer is:
+A. 4 and 19 over 20
+
+3. To determine which pair of ratios cannot form a proportion, check if the cross products are equal:
+   - \( \frac{4}{5} \) and \( \frac{24}{30} \): \( 4 \times 30 = 120 \) and \( 5 \times 24 = 120 \) (Equal, forms a proportion)
+   - \( \frac{4}{5} \) and \( \frac{20}{25} \): \( 4 \times 25 = 100 \) and \( 5 \times 20 = 100 \) (Equal, forms a proportion)
+   - \( \frac{36}{45} \) and \( \frac{4}{5} \): \( 36 \times 5 = 180 \) and \( 45 \times 4 = 180 \) (Equal, forms a proportion)
+   - \( \frac{4}{5} \) and \( \frac{20}{30} \): \( 4 \times 30 = 120 \) and \( 5 \times 20 = 100 \) (Not equal, does not form a proportion)
+
+So, the answer is:
+D. 4 over 5 and 20 over 30
+
+Therefore, the correct answers are:
+1. B
+2. A
+3. D
+1. D
+2. C
+3. B
+1. B
+2. B
+3. B
+1. B
+2. C
+3. D
+1. To find \( \frac{13}{14} + \frac{7}{14} \), you add the numerators since the denominators are the same:
+\[ \frac{13 + 7}{14} = \frac{20}{14} = \frac{10}{7} = 1 \frac{3}{7} \]
+So, the answer is:
+B. 1 and 3 over 7
+
+2. To find the value of \( 4x + 9 \) when \( x = 4 \):
+\[ 4(4) + 9 = 16 + 9 = 25 \]
+So, the answer is:
+C. 25
+
+3. To find the value of \( 2816 \times 7 \):
+\[ 2816 \times 7 = 19712 \]
+So, the answer is:
+D. 19,712
+
+Therefore, the answers are:
+1. B
+2. C
+3. D
+1. A
+2. D
+3. C
+1. A
+2. D
+3. C
+1. A
+2. A
+3. C
+1. C
+2. B
+3. D
+1. D
+2. C
+3. D
+Subject
+politeness level
+1. A
+2. A
+3. D
+1. D
+2. B
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. C
+3. D
+1. A
+2. A
+3. D
+1. C
+2. C
+3. A
+1. A
+2. A
+3. A
+1. A
+2. C
+3. B
+1. A
+2. A
+3. C
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. D
+1. D
+2. C
+3. C
+1. B
+2. A
+3. B
+1. C
+2. B
+3. A
+1. A
+2. B
+3. C
+1. D
+2. C
+3. B
+1. B
+2. A
+3. D
+1. A
+2. D
+3. A
+1. C
+2. A
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. B
+2. C
+3. B
+1. D
+2. D
+3. B
+1. B
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. C
+3. A
+1. A
+2. D
+3. D
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+politeness level
+1. A
+2. A
+3. D
+1. D
+2. B
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. C
+3. D
+1. A
+2. A
+3. D
+1. C
+2. C
+3. A
+1. A
+2. A
+3. A
+1. A
+2. C
+3. B
+1. A
+2. A
+3. C
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. D
+1. D
+2. B
+3. C
+1. B
+2. A
+3. B
+1. C
+2. B
+3. A
+1. A
+2. B
+3. C
+1. D
+2. B
+3. B
+1. B
+2. A
+3. B
+1. A
+2. D
+3. A
+1. C
+2. A
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. B
+2. C
+3. B
+1. D
+2. D
+3. B
+1. B
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. C
+3. A
+1. A
+2. C
+3. D
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+politeness level
+1. A
+2. A
+3. D
+1. D
+2. B
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. C
+3. D
+1. A
+2. A
+3. B
+1. C
+2. C
+3. A
+1. A
+2. A
+3. A
+1. A
+2. C
+3. B
+1. A
+2. A
+3. C
+1. A
+2. C
+3. A
+1. A
+2. A
+3. B
+1. B
+2. D
+3. C
+1. A
+2. A
+3. D
+1. D
+2. C
+3. C
+1. B
+2. A
+3. B
+1. C
+2. B
+3. A
+1. D
+2. B
+3. C
+1. D
+2. B
+3. B
+1. B
+2. A
+3. B
+1. A
+2. D
+3. A
+1. C
+2. A
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. B
+2. C
+3. B
+1. D
+2. D
+3. B
+1. B
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. C
+3. A
+1. A
+2. C
+3. D
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+politeness level
+1. A
+2. A
+3. D
+1. D
+2. B
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. C
+3. D
+1. A
+2. A
+3. B
+1. C
+2. C
+3. A
+1. A
+2. A
+3. A
+1. A
+2. C
+3. B
+1. A
+2. C
+3. C
+1. A
+2. C
+3. A
+1. A
+2. A
+3. B
+1. B
+2. D
+3. C
+1. A
+2. A
+3. D
+1. D
+2. C
+3. C
+1. B
+2. A
+3. B
+1. C
+2. B
+3. A
+1. D
+2. B
+3. C
+1. D
+2. B
+3. B
+1. B
+2. A
+3. B
+1. A
+2. D
+3. A
+1. C
+2. A
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. B
+2. C
+3. B
+1. D
+2. D
+3. B
+1. B
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. C
+3. A
+1. A
+2. C
+3. D
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+politeness level
+1. A
+2. A
+3. D
+1. D
+2. B
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. C
+3. D
+1. A
+2. A
+3. B
+1. C
+2. C
+3. A
+1. A
+2. A
+3. A
+1. A
+2. C
+3. B
+1. A
+2. A
+3. C
+1. A
+2. C
+3. A
+1. A
+2. B
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. D
+1. D
+2. C
+3. C
+1. B
+2. A
+3. B
+1. C
+2. B
+3. A
+1. D
+2. B
+3. C
+1. D
+2. B
+3. B
+1. B
+2. A
+3. B
+1. A
+2. D
+3. A
+1. C
+2. A
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. B
+2. C
+3. B
+1. D
+2. D
+3. B
+1. B
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. C
+3. D
+1. A
+2. C
+3. D
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+politeness level
+1. A
+2. A
+3. D
+1. D
+2. B
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. C
+3. D
+1. A
+2. A
+3. D
+1. C
+2. C
+3. A
+1. A
+2. A
+3. A
+1. A
+2. C
+3. B
+1. A
+2. C
+3. C
+1. A
+2. C
+3. A
+1. A
+2. B
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. D
+1. D
+2. C
+3. C
+1. B
+2. A
+3. B
+1. C
+2. B
+3. A
+1. A
+2. B
+3. C
+1. D
+2. B
+3. B
+1. B
+2. A
+3. B
+1. A
+2. D
+3. A
+1. C
+2. A
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. B
+2. C
+3. B
+1. D
+2. D
+3. B
+1. B
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. C
+3. A
+1. A
+2. C
+3. D
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+politeness level
+1. A
+2. A
+3. D
+1. D
+2. B
+3. B
+1. B
+2. B
+3. D
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. C
+3. D
+1. A
+2. A
+3. B
+1. C
+2. C
+3. A
+1. A
+2. A
+3. A
+1. A
+2. C
+3. B
+1. A
+2. C
+3. C
+1. A
+2. C
+3. A
+1. A
+2. A
+3. B
+1. B
+2. D
+3. C
+1. A
+2. A
+3. D
+1. D
+2. C
+3. C
+1. B
+2. A
+3. B
+1. C
+2. B
+3. A
+1. A
+2. B
+3. C
+1. D
+2. B
+3. B
+1. B
+2. A
+3. B
+1. A
+2. D
+3. A
+1. C
+2. A
+3. A
+1. A
+2. A
+3. B
+1. D
+2. D
+3. A
+1. B
+2. C
+3. B
+1. D
+2. D
+3. B
+1. B
+2. A
+3. B
+1. D
+2. D
+3. A
+1. A
+2. C
+3. A
+1. A
+2. C
+3. D
+1. A
+2. B
+3. C
+1. C
+2. B
+3. D
+Subject
+politeness level
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. B
+2. C
+3. D
+1. D
+2. A
+3. D
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. A
+2. D
+3. A
+1. A
+2. D
+3. D
+1. B
+2. D
+3. A
+1. D
+2. C
+3. C
+1. D
+2. C
+3. B
+1. D
+2. A
+3. D
+1. B
+2. B
+3. D
+1. D
+2. A
+3. A
+1. B
+2. A
+3. B
+1. A
+2. D
+3. D
+1. A
+2. C
+3. B
+1. D
+2. B
+3. A
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. C
+2. C
+3. C
+1. D
+2. C
+3. C
+1. D
+2. B
+3. C
+1. B
+2. B
+3. C
+1. C
+2. B
+3. A
+1. D
+2. A
+3. D
+1. D
+2. D
+3. B
+1. D
+2. B
+3. A
+1. C
+2. B
+3. D
+1. D
+2. D
+3. D
+1. B
+2. D
+3. C
+1. B
+2. A
+3. A
+1. B
+2. A
+3. A
+politeness level
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. B
+2. C
+3. D
+1. D
+2. A
+3. D
+1. D
+2. C
+3. B
+1. C
+2. C
+3. C
+1. A
+2. D
+3. A
+1. A
+2. D
+3. D
+1. B
+2. D
+3. A
+1. D
+2. C
+3. C
+1. A
+2. C
+3. B
+1. D
+2. A
+3. D
+1. B
+2. B
+3. D
+1. D
+2. A
+3. A
+1. B
+2. A
+3. B
+1. A
+2. D
+3. D
+1. B
+2. C
+3. B
+1. D
+2. B
+3. A
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. C
+2. C
+3. C
+1. D
+2. C
+3. C
+1. D
+2. B
+3. C
+1. B
+2. B
+3. C
+1. C
+2. B
+3. A
+1. D
+2. A
+3. D
+1. D
+2. D
+3. B
+1. D
+2. B
+3. A
+1. C
+2. B
+3. D
+1. D
+2. D
+3. D
+1. B
+2. D
+3. C
+1. B
+2. A
+3. A
+1. B
+2. A
+3. A
+politeness level
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. B
+2. C
+3. D
+1. D
+2. A
+3. D
+1. D
+2. C
+3. B
+1. C
+2. C
+3. C
+1. A
+2. D
+3. A
+1. A
+2. D
+3. D
+1. B
+2. D
+3. A
+1. D
+2. C
+3. C
+1. A
+2. C
+3. B
+1. D
+2. A
+3. D
+1. B
+2. B
+3. D
+1. D
+2. A
+3. A
+1. B
+2. A
+3. B
+1. A
+2. D
+3. D
+1. B
+2. C
+3. B
+1. D
+2. B
+3. A
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. C
+2. C
+3. C
+1. D
+2. C
+3. C
+1. D
+2. B
+3. C
+1. B
+2. B
+3. C
+1. C
+2. B
+3. A
+1. D
+2. A
+3. D
+1. D
+2. D
+3. B
+1. D
+2. B
+3. A
+1. C
+2. B
+3. D
+1. D
+2. D
+3. D
+1. B
+2. D
+3. C
+1. B
+2. A
+3. A
+1. B
+2. A
+3. A
+politeness level
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. B
+2. C
+3. D
+1. D
+2. A
+3. D
+1. D
+2. C
+3. B
+1. C
+2. C
+3. C
+1. A
+2. D
+3. A
+1. A
+2. D
+3. D
+1. B
+2. D
+3. A
+1. D
+2. C
+3. C
+1. A
+2. C
+3. B
+1. D
+2. A
+3. D
+1. B
+2. B
+3. D
+1. D
+2. A
+3. A
+1. B
+2. A
+3. B
+1. A
+2. D
+3. D
+1. B
+2. C
+3. B
+1. D
+2. B
+3. A
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. C
+2. C
+3. C
+1. D
+2. C
+3. C
+1. D
+2. B
+3. C
+1. B
+2. B
+3. C
+1. C
+2. B
+3. A
+1. D
+2. A
+3. D
+1. D
+2. D
+3. B
+1. D
+2. B
+3. A
+1. C
+2. B
+3. D
+1. D
+2. D
+3. D
+1. B
+2. D
+3. C
+1. B
+2. A
+3. A
+1. B
+2. A
+3. A
+politeness level
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. B
+2. C
+3. D
+1. D
+2. A
+3. D
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. A
+2. D
+3. A
+1. A
+2. D
+3. D
+1. B
+2. D
+3. A
+1. D
+2. C
+3. C
+1. A
+2. C
+3. B
+1. D
+2. A
+3. D
+1. B
+2. B
+3. D
+1. D
+2. A
+3. A
+1. B
+2. A
+3. B
+1. A
+2. D
+3. D
+1. B
+2. C
+3. B
+1. D
+2. B
+3. A
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. C
+2. C
+3. C
+1. D
+2. C
+3. C
+1. D
+2. B
+3. C
+1. B
+2. B
+3. C
+1. C
+2. B
+3. A
+1. D
+2. A
+3. D
+1. D
+2. D
+3. B
+1. D
+2. B
+3. A
+1. C
+2. B
+3. D
+1. D
+2. D
+3. D
+1. B
+2. D
+3. C
+1. B
+2. A
+3. A
+1. B
+2. A
+3. A
+politeness level
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. B
+2. C
+3. D
+1. D
+2. A
+3. D
+1. D
+2. C
+3. B
+1. C
+2. C
+3. C
+1. A
+2. D
+3. A
+1. A
+2. D
+3. D
+1. B
+2. D
+3. A
+1. D
+2. C
+3. C
+1. A
+2. C
+3. B
+1. D
+2. A
+3. D
+1. B
+2. B
+3. D
+1. D
+2. A
+3. A
+1. B
+2. A
+3. B
+1. A
+2. D
+3. D
+1. B
+2. C
+3. B
+1. D
+2. B
+3. A
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. D
+2. B
+3. C
+1. B
+2. B
+3. C
+1. C
+2. B
+3. A
+1. D
+2. B
+3. D
+1. D
+2. D
+3. B
+1. D
+2. B
+3. A
+1. C
+2. B
+3. D
+1. D
+2. D
+3. D
+1. B
+2. D
+3. C
+1. B
+2. A
+3. A
+1. B
+2. A
+3. A
+politeness level
+1. B
+2. C
+3. C
+1. D
+2. C
+3. C
+1. B
+2. C
+3. D
+1. D
+2. A
+3. D
+1. D
+2. C
+3. B
+1. C
+2. C
+3. C
+1. A
+2. D
+3. A
+1. A
+2. D
+3. D
+1. B
+2. D
+3. A
+1. D
+2. C
+3. C
+1. A
+2. C
+3. B
+1. D
+2. A
+3. D
+1. B
+2. B
+3. D
+1. D
+2. A
+3. A
+1. B
+2. A
+3. B
+1. A
+2. D
+3. D
+1. B
+2. C
+3. B
+1. D
+2. B
+3. A
+1. D
+2. C
+3. A
+1. C
+2. C
+3. C
+1. C
+2. C
+3. C
+1. D
+2. C
+3. C
+1. D
+2. B
+3. C
+1. B
+2. B
+3. C
+1. C
+2. B
+3. A
+1. D
+2. A
+3. D
+1. D
+2. D
+3. B
+1. D
+2. B
+3. A
+1. C
+2. B
+3. D
+1. D
+2. D
+3. D
+1. B
+2. D
+3. C
+1. B
+2. A
+3. A
+1. B
+2. A
+3. A
+Subject
+politeness level
+1. B
+2. D
+3. C
+1. C
+2. A
+3. A
+1. A
+2. B
+3. C
+1. B
+2. A
+3. B
+1. D
+2. D
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. A
+1. A
+2. D
+3. A
+1. A
+2. C
+3. B
+1. D
+2. A
+3. C
+1. C
+2. C
+3. C
+1. D
+2. D
+3. B
+1. D
+2. A
+3. C
+1. B
+2. B
+3. B
+1. D
+2. B
+3. B
+1. D
+2. D
+3. D
+1. A
+2. A
+3. B
+1. C
+2. B
+3. B
+1. D
+2. A
+3. C
+1. C
+2. B
+3. C
+1. B
+2. A
+3. B
+1. A
+2. B
+3. C
+1. D
+2. A
+3. C
+1. B
+2. C
+3. C
+1. D
+2. B
+3. A
+1. D
+2. D
+3. C
+1. A
+2. A
+3. D
+1. B
+2. D
+3. D
+1. C
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. C
+1. C
+2. A
+3. A
+1. A
+2. B
+3. C
+1. B
+2. A
+3. B
+1. D
+2. D
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. A
+1. A
+2. D
+3. A
+1. A
+2. C
+3. B
+1. D
+2. A
+3. C
+1. C
+2. C
+3. C
+1. D
+2. D
+3. B
+1. D
+2. A
+3. C
+1. B
+2. B
+3. B
+1. D
+2. B
+3. B
+1. D
+2. D
+3. D
+1. A
+2. A
+3. B
+1. C
+2. B
+3. B
+1. D
+2. A
+3. C
+1. C
+2. B
+3. C
+1. D
+2. A
+3. B
+1. A
+2. B
+3. C
+1. D
+2. A
+3. C
+1. B
+2. C
+3. C
+1. D
+2. B
+3. A
+1. D
+2. D
+3. C
+1. A
+2. A
+3. D
+1. B
+2. D
+3. D
+1. C
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. C
+1. C
+2. A
+3. A
+1. A
+2. B
+3. C
+1. B
+2. A
+3. B
+1. D
+2. D
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. A
+1. A
+2. D
+3. A
+Your answers are:
+1. A
+2. C
+3. B
+
+These are correct based on the following explanations:
+
+1. **A (there is no cyclical unemployment)** - When a nation is operating at the natural rate of unemployment, it means all unemployment is due to frictional or structural factors, not due to downturns in the business cycle, hence no cyclical unemployment.
+
+2. **C (is inversely related to the price level)** - The domestic purchasing power of a currency decreases as the general price level increases, meaning it can buy fewer goods and services.
+
+3. **B (can be held in a bank's vault or its account at the FED)** - Required reserves are the minimum reserves a bank must hold to back deposits, either in its own vault or in its reserve account at the Federal Reserve; they are not available for lending or investment purposes.
+1. D
+2. A
+3. C
+1. C
+2. C
+3. C
+1. D
+2. D
+3. B
+1. D
+2. A
+3. C
+1. B
+2. B
+3. B
+1. D
+2. B
+3. B
+1. D
+2. D
+3. D
+1. A
+2. A
+3. B
+1. C
+2. B
+3. B
+1. D
+2. A
+3. C
+1. C
+2. B
+3. C
+1. D
+2. A
+3. B
+1. A
+2. B
+3. C
+1. D
+2. A
+3. C
+1. B
+2. C
+3. C
+1. D
+2. B
+3. A
+1. D
+2. D
+3. C
+1. A
+2. A
+3. D
+1. B
+2. D
+3. D
+1. C
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. C
+1. C
+2. A
+3. A
+1. A
+2. B
+3. C
+1. B
+2. A
+3. B
+1. D
+2. D
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. A
+1. A
+2. D
+3. A
+1. A
+2. C
+3. B
+1. D
+2. A
+3. C
+1. C
+2. C
+3. C
+1. D
+2. D
+3. B
+1. D
+2. A
+3. C
+1. B
+2. B
+3. B
+1. D
+2. B
+3. B
+1. D
+2. D
+3. D
+1. A
+2. A
+3. B
+1. C
+2. B
+3. B
+1. D
+2. A
+3. C
+1. C
+2. B
+3. C
+1. D
+2. A
+3. B
+1. A
+2. B
+3. C
+1. D
+2. A
+3. C
+1. B
+2. C
+3. C
+1. D
+2. B
+3. A
+1. D
+2. D
+3. C
+1. A
+2. A
+3. D
+1. B
+2. D
+3. D
+1. C
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. C
+1. C
+2. A
+3. A
+1. A
+2. B
+3. C
+1. B
+2. A
+3. B
+1. D
+2. D
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. A
+1. A
+2. D
+3. A
+1. A
+2. C
+3. B
+1. D
+2. A
+3. C
+1. C
+2. C
+3. C
+1. D
+2. D
+3. B
+1. D
+2. A
+3. C
+1. B
+2. B
+3. B
+1. D
+2. B
+3. B
+1. D
+2. D
+3. D
+1. A
+2. A
+3. B
+1. C
+2. B
+3. B
+1. D
+2. A
+3. C
+1. C
+2. B
+3. C
+1. D
+2. A
+3. B
+1. A
+2. B
+3. C
+1. D
+2. D
+3. C
+1. B
+2. C
+3. C
+1. D
+2. B
+3. A
+1. D
+2. D
+3. C
+1. A
+2. A
+3. D
+1. B
+2. D
+3. D
+1. C
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. C
+1. C
+2. A
+3. A
+1. A
+2. B
+3. C
+1. B
+2. A
+3. B
+1. D
+2. D
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. A
+1. A
+2. D
+3. A
+1. A
+2. C
+3. B
+1. D
+2. A
+3. C
+1. C
+2. C
+3. C
+1. D
+2. D
+3. B
+1. D
+2. A
+3. C
+1. B
+2. B
+3. B
+1. D
+2. B
+3. B
+1. D
+2. D
+3. D
+1. A
+2. A
+3. B
+1. C
+2. B
+3. B
+1. D
+2. A
+3. C
+1. C
+2. B
+3. C
+1. D
+2. A
+3. B
+1. A
+2. B
+3. C
+1. D
+2. A
+3. C
+1. B
+2. C
+3. C
+1. D
+2. B
+3. A
+1. D
+2. D
+3. C
+Certainly! Here are the answers to your questions:
+
+1. A
+2. A
+3. D
+1. B
+2. D
+3. D
+1. C
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. C
+1. C
+2. C
+3. A
+1. A
+2. B
+3. C
+1. B
+2. A
+3. B
+1. D
+2. D
+3. D
+1. B
+2. A
+3. A
+1. C
+2. A
+3. D
+1. C
+2. A
+3. D
+1. B
+2. A
+3. A
+1. B
+2. D
+3. C
+1. A
+2. A
+3. A
+1. A
+2. D
+3. A
+1. A
+2. C
+3. B
+1. D
+2. A
+3. C
+1. C
+2. C
+3. C
+Here are the correct answers to your questions:
+
+1. D. low levels of income relative to other nations.
+2. D. the nominal interest rate minus anticipated inflation.
+3. B. Imports.
+
+So, the correct format for your answers would be:
+1. D
+2. D
+3. B
+1. D
+2. A
+3. C
+1. B
+2. B
+3. B
+1. D
+2. B
+3. B
+1. D
+2. D
+3. D
+1. A
+2. A
+3. B
+1. C
+2. B
+3. B
+1. D
+2. A
+3. C
+1. C
+2. B
+3. C
+1. D
+2. A
+3. B
+1. A
+2. B
+3. C
+1. D
+2. A
+3. C
+1. B
+2. C
+3. C
+1. D
+2. B
+3. A
+1. D
+2. D
+3. C
+Here are the correct answers to the questions you provided:
+
+1. A. divide nominal GDP by the GDP deflator.
+2. A. A decline in investment.
+3. D. lessening the impact of a recession.
+
+Formatted as requested:
+1. A
+2. A
+3. D
+1. B
+2. D
+3. D
+1. C
+2. D
+3. D
+Subject
+politeness level
+1. B
+2. D
+3. B
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. A
+2. A
+3. C
+1. B
+2. D
+3. C
+1. D
+2. D
+3. B
+1. A
+2. A
+3. D
+1. A
+2. D
+3. B
+1. A
+2. D
+3. A
+1. D
+2. C
+3. B
+1. A
+2. D
+3. D
+1. D
+2. B
+3. D
+1. C
+2. D
+3. B
+1. B
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. A
+3. C
+1. A
+2. A
+3. C
+1. D
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. B
+1. A
+2. D
+3. C
+1. B
+2. B
+3. C
+1. D
+2. D
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. B
+1. B
+2. D
+3. A
+1. B
+2. B
+3. D
+1. B
+2. D
+3. C
+1. D
+2. D
+3. A
+1. D
+2. D
+3. C
+politeness level
+1. B
+2. D
+3. B
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. A
+2. A
+3. C
+1. B
+2. D
+3. C
+1. D
+2. D
+3. B
+1. A
+2. A
+3. D
+1. A
+2. D
+3. B
+1. A
+2. D
+3. A
+1. D
+2. C
+3. B
+1. A
+2. D
+3. D
+1. D
+2. B
+3. D
+1. C
+2. D
+3. B
+1. B
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. A
+3. C
+1. A
+2. A
+3. C
+1. D
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. B
+1. A
+2. D
+3. C
+1. B
+2. B
+3. C
+1. D
+2. D
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. B
+3. D
+1. A
+2. D
+3. B
+1. B
+2. D
+3. A
+1. B
+2. B
+3. A
+1. B
+2. D
+3. C
+1. D
+2. D
+3. A
+1. D
+2. D
+3. C
+politeness level
+1. B
+2. D
+3. B
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. A
+2. A
+3. C
+1. B
+2. A
+3. C
+1. D
+2. D
+3. B
+1. A
+2. A
+3. D
+1. A
+2. D
+3. B
+1. A
+2. D
+3. A
+1. D
+2. C
+3. B
+1. A
+2. D
+3. D
+1. D
+2. B
+3. D
+1. C
+2. D
+3. B
+1. B
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. A
+3. C
+1. A
+2. A
+3. C
+1. D
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. B
+1. A
+2. D
+3. C
+1. B
+2. B
+3. C
+1. D
+2. D
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. B
+1. B
+2. D
+3. A
+1. B
+2. B
+3. A
+1. A
+2. D
+3. C
+1. D
+2. D
+3. A
+1. D
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. B
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. A
+2. B
+3. C
+1. B
+2. D
+3. C
+1. D
+2. D
+3. B
+1. A
+2. A
+3. D
+1. A
+2. D
+3. B
+1. A
+2. D
+3. A
+1. D
+2. C
+3. B
+1. A
+2. D
+3. D
+1. D
+2. B
+3. D
+1. C. 1609
+2. D. can be reactivated in patients affected by acromegaly.
+3. B. 2
+1. B
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. A
+3. C
+1. A
+2. A
+3. C
+1. D
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. B
+1. A
+2. D
+3. C
+1. B
+2. B
+3. C
+1. D
+2. D
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. B
+3. D
+1. A
+2. B
+3. B
+1. B
+2. D
+3. A
+1. B
+2. B
+3. A
+1. B
+2. D
+3. C
+1. D
+2. D
+3. A
+1. D
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. B
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. A
+2. A
+3. C
+1. B
+2. D
+3. C
+1. D
+2. D
+3. B
+1. A
+2. A
+3. D
+1. A
+2. D
+3. B
+1. C
+2. D
+3. A
+1. D
+2. C
+3. B
+1. A
+2. D
+3. D
+1. D
+2. B
+3. D
+1. C
+2. D
+3. B
+1. B
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. C
+1. A
+2. A
+3. C
+1. D
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. B
+1. A
+2. D
+3. C
+1. B
+2. B
+3. C
+1. D
+2. D
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. B
+3. D
+1. A
+2. D
+3. B
+1. B
+2. D
+3. A
+1. B
+2. B
+3. A
+1. B
+2. D
+3. C
+1. D
+2. D
+3. A
+1. D
+2. D
+3. C
+politeness level
+1. B
+2. D
+3. B
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. A
+2. A
+3. C
+1. B
+2. A
+3. C
+1. D
+2. D
+3. B
+1. A
+2. A
+3. D
+1. A
+2. D
+3. B
+1. A
+2. B
+3. A
+1. D
+2. C
+3. B
+1. A
+2. D
+3. D
+1. D
+2. B
+3. D
+1. C
+2. D
+3. B
+1. B
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. C
+1. A
+2. A
+3. C
+1. D
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. B
+1. A
+2. D
+3. C
+1. B
+2. B
+3. C
+1. D
+2. D
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. B
+1. B
+2. D
+3. A
+1. B
+2. B
+3. A
+1. B
+2. D
+3. C
+1. D
+2. D
+3. A
+1. D
+2. D
+3. D
+politeness level
+1. B
+2. D
+3. B
+1. B
+2. B
+3. C
+1. D
+2. A
+3. C
+1. D
+2. A
+3. C
+1. B
+2. A
+3. C
+1. D
+2. D
+3. B
+1. A
+2. A
+3. D
+1. A
+2. D
+3. B
+1. C
+2. D
+3. A
+1. D
+2. C
+3. B
+1. A
+2. D
+3. D
+1. D
+2. B
+3. D
+1. C
+2. D
+3. B
+1. B
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. A
+3. C
+1. A
+2. A
+3. C
+1. D
+2. C
+3. C
+1. A
+2. A
+3. D
+1. C
+2. B
+3. B
+1. A
+2. D
+3. C
+1. B
+2. B
+3. C
+1. D
+2. D
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. A
+1. A
+2. A
+3. A
+1. B
+2. B
+3. D
+1. A
+2. C
+3. B
+1. B
+2. D
+3. A
+1. B
+2. B
+3. A
+1. B
+2. D
+3. C
+1. D
+2. D
+3. A
+1. D
+2. D
+3. C
